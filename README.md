@@ -25,12 +25,12 @@
 
 **4)Methods and models used -:**
 
-*a)Supervised Learning -:*
+* a)Supervised Learning -:*
    1)Regression -: Linear regression,Support Vector Regressor,Xtreme Gradient Boost Regressor,Random Forest Regressor
    
    2)Classification -: KNeighborsClassifier,RandomForestClassifier,XGBClassifier,LogisticRegression,Support Vector Classifier
    
-*b)Unsupervised Learning -:* Heirarical Clustering
+* b)Unsupervised Learning -:* Heirarical Clustering
 
 
 **5)Why I used Clustering,Regression and Classification-:**
