@@ -26,6 +26,8 @@
 **4)Methods and models used -:**
 
 * a)Supervised Learning -:*
+   
+   
    1)Regression -: Linear regression,Support Vector Regressor,Xtreme Gradient Boost Regressor,Random Forest Regressor
    
    2)Classification -: KNeighborsClassifier,RandomForestClassifier,XGBClassifier,LogisticRegression,Support Vector Classifier
@@ -62,5 +64,5 @@
 *Classification after creating classes of age,fter creating classes of age models are giving maximum accuracy of 87% by almost all three models.
 
 
-**Result**-:
+**Result-:**
 In the light of evidence,we came to a result that by using dimensions of abalone now anyone can easily predict the gender,age and current price of the abalone shell
