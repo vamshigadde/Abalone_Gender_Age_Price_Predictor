@@ -52,6 +52,8 @@
 
 * By using Classification i tryed to predict the age class and it worked models are close to the optimal point
 
+* Price Prediction only Done in User Interface only by using simple linear regression
+
 **Conclusion-:**
 *By the above analysis done, we can conclude that,*
 * Classification after clusteing
